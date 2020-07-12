@@ -2,8 +2,14 @@
 
 
 #### Dependent DB Services
-1. PostgreSQL
+### 1. PostgreSQL - 
+credentials are hardcoded 
+username = postgres
+password = 123456
+database = packform
+
 2. MongoDB
+No authentication
 
 #### Install GO Dependencies
 From project root folder issue below command
